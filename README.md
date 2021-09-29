@@ -10,7 +10,6 @@ Then you can add any new item in your todo list.
 
 Technolgies used:-
 JDK 8,
-Spring Initializer,
 Spring Boot,
 Spring Data Web,
 Spring Data JDBC,
